@@ -1,10 +1,10 @@
 'use strict';
 
 //Make a new variable `motto` for the value "The iSchool is my school"
-
+var motto = "The iSchool is my school"
 
 //Log out the motto
-
+console.log(motto)
 
 //Create a variable mottoLength that stores the length of the motto.
 //Use the .length property
